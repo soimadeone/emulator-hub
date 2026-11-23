@@ -19,7 +19,7 @@ English · [한국어](README.ko.md)
 </div>
 
 > [!NOTE]
-> The app UI is currently **Korean only**. English UI is planned. Screenshots use sample data.
+> The app is available in **English and Korean**. It follows your macOS language; change it in **View › Language**. Screenshots use sample data.
 
 ## Why
 
